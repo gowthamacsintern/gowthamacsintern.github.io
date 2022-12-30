@@ -1,0 +1,202 @@
+* {
+  box-sizing: border-box;
+  margin: 0%;
+}
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(247, 242, 242);
+  font-family: Segoe UI;
+}
+.first {
+  width: 3.5%;
+  height: 100%;
+  background-color: rgb(247, 242, 242);
+  float: left;
+}
+.i1 {
+  height: 20px;
+  width: 28px;
+  position: absolute;
+  margin-top: 5%;
+  margin-left: 10px;
+}
+.i2 {
+  height: 20px;
+  width: 25px;
+  position: absolute;
+  margin-top: 8%;
+  border-radius: 1000%;
+  margin-left: 10px;
+}
+.i3 {
+  height: 20px;
+  width: 25px;
+  position: absolute;
+  margin-top: 13.5cm;
+  margin-left: 10px;
+}
+.i4 {
+  height: 20px;
+  width: 25px;
+  margin-top: 1150%;
+  border-radius: 1000%;
+  margin-left: 10px;
+}
+.img2 {
+  height: 20px;
+  width: 100px;
+  position: absolute;
+}
+.second {
+  width: 28%;
+  height: 100%;
+  background-color: white;
+  float: left;
+}
+
+.img {
+  height: 30px;
+  width: 35px;
+}
+.nav {
+  height: 25%;
+  width: 28%;
+  position: fixed;
+  background-color: white;
+}
+.ch {
+  margin-left: 5%;
+  font-size: 2rem;
+}
+.img1 {
+  margin-left: 45%;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  margin-top: -1%;
+}
+i {
+  font-size: 179%;
+  margin-left: 62%;
+  position: absolute;
+  margin-top: -1%;
+}
+.search {
+  margin-left: 5%;
+  width: 90%;
+  height: 18%;
+  border-bottom-color: rgb(30, 160, 41);
+  border-left-color: white;
+}
+.p8 {
+  margin-left: 8%;
+  margin-top: -8%;
+}
+.section1 {
+  height: 75%;
+  width: 100%;
+
+  margin-top: 51%;
+}
+.chats1 {
+  height: 15%;
+  width: 95%;
+  background-color: white;
+  margin-left: 2.5%;
+  border-radius: 5%;
+  margin-top: 42%;
+}
+
+.chats2 {
+  height: 15%;
+  width: 95%;
+  background-color: white;
+  margin-left: 2.5%;
+  border-radius: 5%;
+  margin-top: 1%;
+}
+.chats3 {
+  height: 15%;
+  width: 95%;
+  background-color: white;
+  margin-left: 2.5%;
+  border-radius: 5%;
+  margin-top: 1%;
+}
+.chats4 {
+  height: 15%;
+  width: 95%;
+  background-color: white;
+  margin-left: 2.5%;
+  border-radius: 5%;
+  margin-top: 1%;
+}
+.chats5 {
+  height: 15%;
+  width: 95%;
+  background-color: white;
+  margin-left: 2.5%;
+  border-radius: 5%;
+  margin-top: 1%;
+}
+.chats6 {
+  height: 15%;
+  width: 95%;
+  background-color: white;
+  margin-left: 2.5%;
+  border-radius: 5%;
+  margin-top: 1%;
+}
+.joes {
+  height: 50px;
+  width: 50px;
+  border-radius: 55%;
+  margin-top: -2%;
+  float: left;
+}
+.names {
+  font-size: larger;
+
+  margin-left: 5%;
+}
+p {
+  margin-left: 7%;
+  margin-top: 0%;
+}
+svg {
+  width: 542px;
+  height: 238px;
+  margin-top: 12%;
+  margin-left: 22%;
+  border-radius: 24%;
+}
+.third {
+  height: 100%;
+  width: 68%;
+  margin-left: 32%;
+}
+.b5 {
+  margin-left: 41%;
+  font-size: 110%;
+}
+.p5 {
+  color: rgb(108 102 102);
+  font-family: sans-serif;
+  font-size: 14px;
+  text-align: center;
+}
+.p4 {
+  color: rgb(108 102 102);
+  font-family: sans-serif;
+  font-size: 14px;
+  text-align: center;
+}
+.font {
+  font-size: 14px;
+  color: rgb(108 102 102);
+  font-family: Segoe UI;
+  margin-left: 21%;
+}
